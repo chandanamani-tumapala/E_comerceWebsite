@@ -1,0 +1,805 @@
+
+[
+    {
+        "p_id": 1,
+        "p_name": "Wireless Mouse",
+        "p_cost": 599,
+        "p_cat": "Electronics",
+        "p_desc": "A sleek and ergonomic wireless mouse with long battery life.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXIhH05SWPw3l4kuH3Ta9JQTTHvUdaB5TrEw&s"
+    },
+    {
+        "p_id": 2,
+        "p_name": "Bluetooth Headphones",
+        "p_cost": 1499,
+        "p_cat": "Electronics",
+        "p_desc": "Noise-cancelling over-ear headphones with crystal clear sound.",
+        "p_img": "https://img.freepik.com/free-vector/illustration-headphones-icon_53876-5571.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1717891200&semt=sph"
+    },
+    {
+        "p_id": 3,
+        "p_name": "Running Shoes",
+        "p_cost": 2599,
+        "p_cat": "Footwear",
+        "p_desc": "Comfortable and durable running shoes for all terrains.",
+        "p_img": "https://img.freepik.com/free-psd/running-shoes-sneakers-transparent-background_84443-1654.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1717891200&semt=ais_user"
+    },
+    {
+        "p_id": 4,
+        "p_name": "Leather Wallet",
+        "p_cost": 999,
+        "p_cat": "Accessories",
+        "p_desc": "Premium leather wallet with multiple card slots and coin pocket.",
+        "p_img": "https://img.freepik.com/free-vector/purse_1284-658.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717804800&semt=ais_user"
+    },
+    {
+        "p_id": 5,
+        "p_name": "Smartphone",
+        "p_cost": 19999,
+        "p_cat": "Electronics",
+        "p_desc": "Latest model smartphone with high resolution display and powerful processor.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUaMokiJFaC1wAizFjn4si6apOVvB4od2xLQ&s"
+    },
+    {
+        "p_id": 6,
+        "p_name": "Coffee Maker",
+        "p_cost": 3499,
+        "p_cat": "Home Appliances",
+        "p_desc": "Brew perfect coffee every time with this easy-to-use coffee maker.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzwhBbrmywjeYwzlno537XZ_IQljf4x_4PPQ&s"
+    },
+    {
+        "p_id": 7,
+        "p_name": "Yoga Mat",
+        "p_cost": 799,
+        "p_cat": "Fitness",
+        "p_desc": "Non-slip yoga mat with extra cushioning for comfort.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcnUeV6UlMx2RbgNNayireIlcGv--lTjRSQ&s"
+    },
+    {
+        "p_id": 8,
+        "p_name": "Electric Kettle",
+        "p_cost": 1299,
+        "p_cat": "Home Appliances",
+        "p_desc": "Fast-boiling electric kettle with auto shut-off feature.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83DeJuq_zv940PU3sUITDkjllvEaFyLOnpw&s"
+    },
+    {
+        "p_id": 9,
+        "p_name": "Men's Watch",
+        "p_cost": 4999,
+        "p_cat": "Accessories",
+        "p_desc": "Stylish and elegant men's watch with leather strap.",
+        "p_img": "https://img.freepik.com/free-psd/watch-isolated-transparent-background_191095-27322.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717891200&semt=sph"
+    },
+    {
+        "p_id": 10,
+        "p_name": "Bluetooth Speaker",
+        "p_cost": 2999,
+        "p_cat": "Electronics",
+        "p_desc": "Portable Bluetooth speaker with excellent sound quality.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyF6c2f9aqXJnljILsIRzW6Z8-N82FP0_sjA&s"
+    },
+    {
+        "p_id": 11,
+        "p_name": "Gaming Keyboard",
+        "p_cost": 1999,
+        "p_cat": "Electronics",
+        "p_desc": "Mechanical gaming keyboard with customizable RGB lighting.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLW7J4zVPjFCAbpbs7nStBXsuTrXLkqoN1WQ&s"
+    },
+    {
+        "p_id": 12,
+        "p_name": "Women's Handbag",
+        "p_cost": 2999,
+        "p_cat": "Accessories",
+        "p_desc": "Elegant women's handbag with spacious compartments.",
+        "p_img": "https://img.freepik.com/premium-photo/leather-womens-handbag-solid-color-background-ai-generative_873385-2061.jpg"
+    },
+    {
+        "p_id": 13,
+        "p_name": "Fitness Tracker",
+        "p_cost": 2499,
+        "p_cat": "Fitness",
+        "p_desc": "Track your fitness goals with this smart fitness tracker.",
+        "p_img": "https://img.freepik.com/free-vector/realistic-fitness-tracker-bracelet-illustration_23-2148555260.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716854400&semt=ais_user"
+    },
+    {
+        "p_id": 14,
+        "p_name": "Digital Camera",
+        "p_cost": 15999,
+        "p_cat": "Electronics",
+        "p_desc": "High-resolution digital camera with optical zoom and HD video recording.",
+        "p_img": "https://img.freepik.com/premium-psd/camera-with-top-left-bottom-half-lens_169196-9152.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717891200&semt=ais_user"
+    },
+    {
+        "p_id": 15,
+        "p_name": "Office Chair",
+        "p_cost": 4999,
+        "p_cat": "Furniture",
+        "p_desc": "Ergonomic office chair with lumbar support and adjustable height.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVCA7GIDkY49BiO8qTdmX8lIQKsKkjugnMGQ&s"
+    },
+    {
+        "p_id": 16,
+        "p_name": "Laptop",
+        "p_cost": 44999,
+        "p_cat": "Electronics",
+        "p_desc": "Powerful laptop with high performance and long battery life.",
+        "p_img": "https://img.freepik.com/free-psd/isolated-modern-laptop_23-2150629070.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717977600&semt=ais_user"
+    },
+    {
+        "p_id": 17,
+        "p_name": "Sunglasses",
+        "p_cost": 1499,
+        "p_cat": "Accessories",
+        "p_desc": "Stylish sunglasses with UV protection.",
+        "p_img": "https://example.com/images/sunglasses.jpg"
+    },
+    {
+        "p_id": 18,
+        "p_name": "Smartwatch",
+        "p_cost": 7999,
+        "p_cat": "Electronics",
+        "p_desc": "Smartwatch with fitness tracking and notification features.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_33TXGOtLh1JNg5xuERGlqvZ_jIjztkk9xQ&s"
+    },
+    {
+        "p_id": 19,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 1199,
+        "p_cat": "Personal Care",
+        "p_desc": "Electric toothbrush with multiple brushing modes.",
+        "p_img": "https://img.freepik.com/free-vector/electric-toothbrush-3d-vector-illustration-wireless-device-brushing-teeth-cartoon-style-isolated-white-background-modern-technology-smart-home-health-care-concept_778687-717.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1708300800&semt=ais"
+    },
+    {
+        "p_id": 20,
+        "p_name": "Backpack",
+        "p_cost": 2499,
+        "p_cat": "Accessories",
+        "p_desc": "Durable and spacious backpack with multiple compartments.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxC73d2fCLXk9-EfuZYvJAA7EJ4Yeb0hYSg&s"
+    },
+    {
+        "p_id": 21,
+        "p_name": "Hair Dryer",
+        "p_cost": 1499,
+        "p_cat": "Personal Care",
+        "p_desc": "Fast-drying hair dryer with multiple heat settings.",
+        "p_img": "https://img.freepik.com/free-psd/hair-dryer-isolated-transparent-background_191095-23951.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717977600&semt=sph"
+    },
+    {
+        "p_id": 22,
+        "p_name": "Tablet",
+        "p_cost": 15999,
+        "p_cat": "Electronics",
+        "p_desc": "High-resolution tablet with powerful performance and long battery life.",
+        "p_img": "https://img.freepik.com/free-photo/white-tablet-with-black-screen_144627-12164.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1717804800&semt=ais_user"
+    },
+    {
+        "p_id": 23,
+        "p_name": "Smart Light Bulb",
+        "p_cost": 799,
+        "p_cat": "Home Appliances",
+        "p_desc": "Smart light bulb with adjustable brightness and color settings.",
+        "p_img": "https://img.freepik.com/free-vector/light-bulb_1045-575.jpg?size=338&ext=jpg&ga=GA1.1.1687694167.1711670400&semt=ais"
+    },
+    {
+        "p_id": 24,
+        "p_name": "Men's Sneakers",
+        "p_cost": 2999,
+        "p_cat": "Footwear",
+        "p_desc": "Stylish and comfortable men's sneakers.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevyCEaK_YTtOUwiv-moJzPwiqIEdjrUXbrw&s"
+    },
+    {
+        "p_id": 25,
+        "p_name": "Gaming Console",
+        "p_cost": 29999,
+        "p_cat": "Electronics",
+        "p_desc": "Next-gen gaming console with high performance and stunning graphics.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlW4whgUYJ6WBPbLpzLrFxRXu8UROOs6_5Ig&s"
+    },
+    {
+        "p_id": 26,
+        "p_name": "Electric Scooter",
+        "p_cost": 34999,
+        "p_cat": "Automobiles",
+        "p_desc": "Eco-friendly electric scooter with long range and fast charging.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT55jNbd8JHvUytr28Gooidfo7WpuMaNACNoQ&s"
+    },
+    {
+        "p_id": 27,
+        "p_name": "Wireless Charger",
+        "p_cost": 1499,
+        "p_cat": "Electronics",
+        "p_desc": "Fast wireless charger compatible with all Qi-enabled devices.",
+        "p_img": "https://img.freepik.com/free-vector/gradient-hard-drive-illustration_23-2149369152.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717977600&semt=ais_user"
+    },
+    {
+        "p_id": 28,
+        "p_name": "Women's Sandals",
+        "p_cost": 1299,
+        "p_cat": "Footwear",
+        "p_desc": "Comfortable and stylish women's sandals for casual wear.",
+        "p_img": "https://img.freepik.com/free-vector/sandals-isolated-icon-white-background_24911-109497.jpg"
+    },
+    {
+        "p_id": 29,
+        "p_name": "Gaming Headset",
+        "p_cost": 3499,
+        "p_cat": "Electronics",
+        "p_desc": "High-quality gaming headset with surround sound and noise-canceling microphone.",
+        "p_img": "https://img.freepik.com/free-psd/beautiful-gaming-headphone-isolated-transparent-background_84443-1553.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717459200&semt=ais_user"
+    },
+    {
+        "p_id": 30,
+        "p_name": "Portable Power Bank",
+        "p_cost": 999,
+        "p_cat": "Electronics",
+        "p_desc": "Compact and high-capacity portable power bank for on-the-go charging.",
+        "p_img": "https://img.freepik.com/free-vector/gradient-hard-drive-illustration_23-2149369152.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717977600&semt=ais_user"
+    },
+    {
+        "p_id": 31,
+        "p_name": "Bluetooth Earbuds",
+        "p_cost": 2499,
+        "p_cat": "Electronics",
+        "p_desc": "True wireless Bluetooth earbuds with long battery life.",
+        "p_img": "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?size=338&ext=jpg&ga=GA1.1.1788614524.1717804800&semt=ais_user"
+    },
+    {
+        "p_id": 32,
+        "p_name": "Smart TV",
+        "p_cost": 39999,
+        "p_cat": "Electronics",
+        "p_desc": "4K UHD Smart TV with built-in streaming apps.",
+        "p_img": "https://img.freepik.com/premium-photo/modern-smart-tv-generated-ai_644690-32273.jpg?size=338&ext=jpg&ga=GA1.1.1788614524.1717977600&semt=ais_user"
+    },
+    {
+        "p_id": 33,
+        "p_name": "Electric Shaver",
+        "p_cost": 1999,
+        "p_cat": "Personal Care",
+        "p_desc": "Electric shaver with precision blades for a close and comfortable shave.",
+        "p_img": "https://img.freepik.com/premium-psd/electric-shaver-poster_220346-2526.jpg"
+    },
+    {
+        "p_id": 34,
+        "p_name": "Men's Leather Belt",
+        "p_cost": 899,
+        "p_cat": "Accessories",
+        "p_desc": "Classic men's leather belt with adjustable buckle.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSMhzbIna9rPrEAMKAqsctgAlAo_AJx8ukQ&s"
+    },
+    {
+        "p_id": 35,
+        "p_name": "Portable Air Conditioner",
+        "p_cost": 25999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Portable air conditioner with remote control and multiple cooling modes.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrzUWx7w5krJDVjS-ldD-KzTtrJyYatRC8w&s"
+    },
+    {
+        "p_id": 36,
+        "p_name": "Wireless Earphones",
+        "p_cost": 1599,
+        "p_cat": "Electronics",
+        "p_desc": "High-quality wireless earphones with long battery life and excellent sound.",
+        "p_img": "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?size=338&ext=jpg&ga=GA1.1.1518270500.1717545600&semt=ais_user"
+    },
+    {
+        "p_id": 37,
+        "p_name": "Microwave Oven",
+        "p_cost": 6999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Compact microwave oven with multiple power levels and cooking modes.",
+        "p_img": "https://img.freepik.com/free-psd/microwave-oven-isolated-transparent-background_84443-2104.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717718400&semt=ais_user"
+    },
+    {
+        "p_id": 38,
+        "p_name": "Men's Formal Shoes",
+        "p_cost": 3499,
+        "p_cat": "Footwear",
+        "p_desc": "Elegant men's formal shoes made from premium leather.",
+        "p_img": "https://img.freepik.com/free-vector/realistic-pare-black-shiny-leather-male-shoes-isolated-white-background-vector-illustration_1284-81463.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717804800&semt=ais_user"
+    },
+    {
+        "p_id": 39,
+        "p_name": "Fitness Band",
+        "p_cost": 1999,
+        "p_cat": "Fitness",
+        "p_desc": "Track your daily activities and monitor your health with this fitness band.",
+        "p_img": "https://img.freepik.com/free-vector/realistic-fitness-tracker-bracelet-illustration_23-2148555260.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717804800&semt=ais_user"
+    },
+    {
+        "p_id": 40,
+        "p_name": "Digital Photo Frame",
+        "p_cost": 3999,
+        "p_cat": "Home Decor",
+        "p_desc": "Display your favorite photos in a digital photo frame with high resolution.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2mleZYiouobrMd-VlM7IxeSZfmr1Yt5DUXQ&s"
+    },
+    {
+        "p_id": 41,
+        "p_name": "Water Bottle",
+        "p_cost": 499,
+        "p_cat": "Accessories",
+        "p_desc": "Stainless steel water bottle with thermal insulation.",
+        "p_img": "https://img.freepik.com/free-photo/transparent-water-bottle-studio_23-2151049088.jpg?size=338&ext=jpg&ga=GA1.1.1518270500.1717200000&semt=ais_user"
+    },
+    {
+        "p_id": 42,
+        "p_name": "Laptop Bag",
+        "p_cost": 1499,
+        "p_cat": "Accessories",
+        "p_desc": "Durable and stylish laptop bag with multiple compartments.",
+        "p_img": "https://img.freepik.com/free-psd/messenger-bag-isolated-transparent-background_191095-24334.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1717891200&semt=ais_user"
+    },
+    {
+        "p_id": 43,
+        "p_name": "Women's Necklace",
+        "p_cost": 1999,
+        "p_cat": "Jewelry",
+        "p_desc": "Elegant women's necklace with sparkling crystals.",
+        "p_img": "https://img.freepik.com/free-vector/gold-chains-background-silver-hanging-link-metallic-shiny_1284-41506.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717891200&semt=sph"
+    },
+    {
+        "p_id": 44,
+        "p_name": "Robot Vacuum Cleaner",
+        "p_cost": 18999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Automated robot vacuum cleaner with smart navigation.",
+        "p_img": "https://img.freepik.com/premium-vector/realistic-robot-vacuum-cleaner-illustration_272963-26.jpg"
+    },
+    {
+        "p_id": 45,
+        "p_name": "Smart Door Lock",
+        "p_cost": 9999,
+        "p_cat": "Home Security",
+        "p_desc": "Secure your home with this smart door lock with fingerprint recognition.",
+        "p_img": "https://img.freepik.com/free-vector/vector-security-padlock-chrome-steel-with-dial-isolated-white_1284-48153.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717804800&semt=ais_user"
+    },
+    {
+        "p_id": 46,
+        "p_name": "Men's Jacket",
+        "p_cost": 3999,
+        "p_cat": "Clothing",
+        "p_desc": "Stylish men's jacket with a modern fit and comfortable design.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJlj-tPidRG7jshqFeVtqhb5IukuQA7etSSQ&s"
+    },
+    {
+        "p_id": 47,
+        "p_name": "Electric Iron",
+        "p_cost": 1499,
+        "p_cat": "Home Appliances",
+        "p_desc": "Electric iron with non-stick soleplate and adjustable temperature settings.",
+        "p_img": "https://img.freepik.com/premium-photo/illustration-blue-steam-iron-pastel-pink-background-3d-simple_756405-41458.jpg"
+    },
+    {
+        "p_id": 48,
+        "p_name": "Women's Earrings",
+        "p_cost": 1299,
+        "p_cat": "Jewelry",
+        "p_desc": "Beautiful women's earrings with intricate design.",
+        "p_img": "https://img.freepik.com/free-psd/earrings-isolated-transparent-background_191095-27214.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717977600&semt=sph"
+    },
+    {
+        "p_id": 49,
+        "p_name": "Blender",
+        "p_cost": 2499,
+        "p_cat": "Home Appliances",
+        "p_desc": "Powerful blender with multiple speed settings and a large capacity jar.",
+        "p_img": "https://img.freepik.com/free-psd/mixer-grinder-icon-isolated-3d-render-illustration_47987-8364.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717891200&semt=ais_user"
+    },
+    {
+        "p_id": 50,
+        "p_name": "Wireless Keyboard",
+        "p_cost": 1299,
+        "p_cat": "Electronics",
+        "p_desc": "Compact wireless keyboard with long battery life and ergonomic design.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1Vw_he9zi9N0mWfSt1fqt0gHX7CMOhebfg&s"
+    },
+    {
+        "p_id": 51,
+        "p_name": "Gaming Mouse",
+        "p_cost": 999,
+        "p_cat": "Electronics",
+        "p_desc": "High-precision gaming mouse with customizable buttons and RGB lighting.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHVhdWNeHmGWmZXYZcz3x8-PVLqaMDLFA1Fg&s"
+    },
+    {
+        "p_id": 52,
+        "p_name": "Men's Sunglasses",
+        "p_cost": 1999,
+        "p_cat": "Accessories",
+        "p_desc": "Stylish men's sunglasses with polarized lenses for UV protection.",
+        "p_img": "https://img.freepik.com/premium-vector/black-sunglasses-with-dark-glass-white-background_47243-600.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1718064000&semt=sph"
+    },
+    {
+        "p_id": 53,
+        "p_name": "Smart Thermostat",
+        "p_cost": 12999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Smart thermostat with Wi-Fi connectivity and energy-saving features.",
+        "p_img": "https://img.freepik.com/premium-vector/smart-thermostat-set-cartoon-vector-illustration_87720-7887.jpg"
+    },
+    {
+        "p_id": 54,
+        "p_name": "Yoga Block",
+        "p_cost": 599,
+        "p_cat": "Fitness",
+        "p_desc": "Lightweight and durable yoga block for improved balance and flexibility.",
+        "p_img": "https://www.jiomart.com/images/product/original/rvb6kme1zc/ajro-deal-yoga-block-high-density-yoga-exercise-brick-yoga-blocks-set-of-2-product-images-orvb6kme1zc-p601234107-4-202305070028.jpg?im=Resize=(420,420)"
+    },
+    
+    {
+        "p_id": 55,
+        "p_name": "Men's T-shirt",
+        "p_cost": 799,
+        "p_cat": "Clothing",
+        "p_desc": "Comfortable and stylish men's T-shirt made from high-quality cotton.",
+        "p_img": "https://img.freepik.com/free-photo/horizontal-portrait-attractive-bearded-male-with-serious-expression-dressed-casual-grey-t-shirt-keeps-hands-pockets-shows-new-clothes-isolated-white-wall-people-style-concept_273609-16115.jpg?t=st=1718123004~exp=1718126604~hmac=484ca3fc279ca662b86d3f1c905ee242f3d504705ddba88ec14dafe4bf1434a2&w=826"
+    },
+    {
+        "p_id": 56,
+        "p_name": "Women's Dress",
+        "p_cost": 2499,
+        "p_cat": "Clothing",
+        "p_desc": "Elegant women's dress perfect for casual and formal occasions.",
+        "p_img": "https://img.freepik.com/premium-photo/woman-pink-skirt-with-floral-print-bottom_81048-11779.jpg?w=2000"
+    },
+    {
+        "p_id": 57,
+        "p_name": "Air Fryer",
+        "p_cost": 4999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Healthy cooking with this easy-to-use air fryer.",
+        "p_img": "https://img.freepik.com/free-psd/microwave-oven-isolated-transparent-background_191095-10611.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717632000&semt=ais_user"
+    },
+    {
+        "p_id": 58,
+        "p_name": "Wireless Router",
+        "p_cost": 2999,
+        "p_cat": "Electronics",
+        "p_desc": "High-speed wireless router with wide coverage and strong signal.",
+        "p_img": "https://img.freepik.com/free-vector/wireless-router-green-wi-fi-symbol-3d-illustration-cartoon-drawing-equipment-internet-access-3d-style-white-background-internet-network-communication-connection-concept_778687-695.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717718400&semt=sph"
+    },
+    {
+        "p_id": 59,
+        "p_name": "Women's Scarf",
+        "p_cost": 899,
+        "p_cat": "Accessories",
+        "p_desc": "Stylish and warm women's scarf made from soft material.",
+        "p_img": "https://img.freepik.com/free-vector/3d-realistic-silk-red-scarf-knitted-fabric-cloth-alpaca-wool-winter_1441-1816.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717804800&semt=ais_user"
+    },
+    {
+        "p_id": 60,
+        "p_name": "Electric Grill",
+        "p_cost": 3499,
+        "p_cat": "Home Appliances",
+        "p_desc": "Electric grill with non-stick surface for easy cooking and cleaning.",
+        "p_img": "https://img.freepik.com/free-vector/barbecue-grill-illustration_1284-11770.jpg"
+    },
+    {
+        "p_id": 61,
+        "p_name": "Men's Wallet",
+        "p_cost": 1199,
+        "p_cat": "Accessories",
+        "p_desc": "Classic men's wallet with multiple card slots and coin pocket.",
+        "p_img": "https://img.freepik.com/free-vector/purse_1284-658.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717286400&semt=ais_user"
+    },
+    {
+        "p_id": 62,
+        "p_name": "Tablet Stand",
+        "p_cost": 699,
+        "p_cat": "Electronics",
+        "p_desc": "Adjustable tablet stand for hands-free use and better viewing angles.",
+        "p_img": "https://img.freepik.com/premium-photo/tablet-mockup-online-stores-generative-ai_561855-596.jpg"
+    },
+    {
+        "p_id": 63,
+        "p_name": "Women's Watch",
+        "p_cost": 3499,
+        "p_cat": "Accessories",
+        "p_desc": "Elegant women's watch with a sleek design and leather strap.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJ1zRY1a-YAhmDNh7e_KUfXgbtOXh7fmYNg&s"
+    },
+    {
+        "p_id": 64,
+        "p_name": "Electric Blanket",
+        "p_cost": 2499,
+        "p_cat": "Home Appliances",
+        "p_desc": "Stay warm and cozy with this electric blanket with adjustable heat settings.",
+        "p_img": "https://img.freepik.com/premium-vector/electric-blanket-with-programmable-heat-settings_1253148-5305.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=ais_user"
+    },
+    {
+        "p_id": 65,
+        "p_name": "Men's Boots",
+        "p_cost": 3999,
+        "p_cat": "Footwear",
+        "p_desc": "Durable and stylish men's boots for all weather conditions.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAj7rJH-MZkmfDXR35XoWCk9dKNGfhlZq8A&s"
+    },
+    {
+        "p_id": 66,
+        "p_name": "Wireless Headphones",
+        "p_cost": 4999,
+        "p_cat": "Electronics",
+        "p_desc": "Noise-canceling wireless headphones with long battery life.",
+        "p_img": "https://img.freepik.com/premium-photo/offer-bluetooth-headphonecusto_1021115-21.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717977600&semt=ais_user"
+    },
+    {
+        "p_id": 67,
+        "p_name": "Instant Pot",
+        "p_cost": 5999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Multi-functional instant pot for easy and quick cooking.",
+        "p_img": "https://img.freepik.com/premium-vector/rice-cooker-magic-jar-illustration-vector-hand-drawn-art-vector-outline-art_681139-1100.jpg"
+    },
+    {
+        "p_id": 68,
+        "p_name": "Men's Hoodie",
+        "p_cost": 2499,
+        "p_cat": "Clothing",
+        "p_desc": "Comfortable men's hoodie made from soft and durable material.",
+        "p_img": "https://img.freepik.com/free-photo/bff-printed-red-hoodie_53876-105408.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717977600&semt=sph"
+    },
+    {
+        "p_id": 69,
+        "p_name": "Women's Sneakers",
+        "p_cost": 2999,
+        "p_cat": "Footwear",
+        "p_desc": "Stylish and comfortable women's sneakers for everyday wear.",
+        "p_img": "https://img.freepik.com/premium-photo/sneakers-isolated-white-background_963338-1861.jpg"
+    },
+    {
+        "p_id": 70,
+        "p_name": "Smart Plug",
+        "p_cost": 999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Control your appliances remotely with this smart plug.",
+        "p_img": "https://img.freepik.com/free-vector/plug_53876-37499.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1717977600&semt=sph"
+    },
+    {
+        "p_id": 71,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 1799,
+        "p_cat": "Personal Care",
+        "p_desc": "Electric toothbrush with multiple brushing modes and long battery life.",
+        "p_img": "https://img.freepik.com/free-vector/electric-toothbrush-set_1284-21538.jpg"
+    },
+    {
+        "p_id": 72,
+        "p_name": "Men's Jeans",
+        "p_cost": 2199,
+        "p_cat": "Clothing",
+        "p_desc": "Comfortable and stylish men's jeans with a modern fit.",
+        "p_img": "https://img.freepik.com/free-photo/jeans_1203-8093.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717977600&semt=ais_user"
+    },
+    {
+        "p_id": 73,
+        "p_name": "Wireless Charging Pad",
+        "p_cost": 1499,
+        "p_cat": "Electronics",
+        "p_desc": "Fast and efficient wireless charging pad for your devices.",
+        "p_img": "https://img.freepik.com/premium-vector/wireless-charging-smartphone-battery-device-concept-isometric-design-vector-illustration_168129-1454.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717977600&semt=ais_user"
+    },
+    {
+        "p_id": 74,
+        "p_name": "Women's Backpack",
+        "p_cost": 2299,
+        "p_cat": "Accessories",
+        "p_desc": "Stylish and durable women's backpack with multiple compartments.",
+        "p_img": "https://img.freepik.com/free-psd/backpack-purse-bag-isolated-transparent-background_191095-28801.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1718064000&semt=sph"
+    },
+    {
+        "p_id": 75,
+        "p_name": "Digital Thermometer",
+        "p_cost": 599,
+        "p_cat": "Personal Care",
+        "p_desc": "Accurate and fast digital thermometer for all ages.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsvrk6kSCaRlrTILa41rXVcVZQ2G8IEVAPLA&s"
+    },
+    {
+        "p_id": 76,
+        "p_name": "Women's Blouse",
+        "p_cost": 1299,
+        "p_cat": "Clothing",
+        "p_desc": "Elegant women's blouse made from lightweight and breathable fabric.",
+        "p_img": "https://img.freepik.com/free-psd/woman-wearing-blank-black-t-shirt-white-background-mock-up_1142-53671.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1718064000&semt=ais_user"
+    },
+    {
+        "p_id": 77,
+        "p_name": "Gaming Chair",
+        "p_cost": 12999,
+        "p_cat": "Furniture",
+        "p_desc": "Comfortable and ergonomic gaming chair with adjustable settings.",
+        "p_img": "https://img.freepik.com/free-psd/gaming-chair-isolated-transparent-background_84443-2069.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717632000&semt=ais_user"
+    },
+    {
+        "p_id": 78,
+        "p_name": "Smart Scale",
+        "p_cost": 2499,
+        "p_cat": "Fitness",
+        "p_desc": "Smart scale with body composition analysis and Bluetooth connectivity.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-a18ZK8X8rQvZmoVtjGiV_UefQZJq2jkOjQ&s"
+    },
+    {
+        "p_id": 79,
+        "p_name": "Men's Cap",
+        "p_cost": 599,
+        "p_cat": "Accessories",
+        "p_desc": "Stylish men's cap made from breathable material.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbDB5kttcxnXJ-IwsYLUGFW9mwv6JIEB2XwA&s"
+    },
+    {
+        "p_id": 80,
+        "p_name": "Women's Bracelet",
+        "p_cost": 1499,
+        "p_cat": "Jewelry",
+        "p_desc": "Beautiful women's bracelet with intricate design and sparkling stones.",
+        "p_img": "https://img.freepik.com/free-psd/beadwark-craft-isolated-transparent-background_191095-22303.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1710720000&semt=ais"
+    },
+    {
+        "p_id": 81,
+        "p_name": "Men's Watch",
+        "p_cost": 4999,
+        "p_cat": "Accessories",
+        "p_desc": "Elegant men's watch with a stainless steel band and water resistance.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpLNsjs7RCVeQwGNKgkRvmQSNvfCDcRHPfQ&s"
+    },
+
+    {
+        "p_id": 82,
+        "p_name": "Women's Sunglasses",
+        "p_cost": 1799,
+        "p_cat": "Accessories",
+        "p_desc": "Chic women's sunglasses with UV protection and stylish design.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2peOjwHGEQ9x5Q9g6zTugBb1TV7ygosKLKg&s"
+    },
+    {
+        "p_id": 83,
+        "p_name": "Electric Kettle",
+        "p_cost": 1499,
+        "p_cat": "Home Appliances",
+        "p_desc": "Fast boiling electric kettle with automatic shut-off feature.",
+        "p_img": "https://img.freepik.com/premium-psd/3d-coffee-kettle_453897-723.jpg?size=338&ext=jpg&ga=GA1.1.553209589.1713916800&semt=ais"
+    },
+    {
+        "p_id": 84,
+        "p_name": "Men's Belt",
+        "p_cost": 799,
+        "p_cat": "Accessories",
+        "p_desc": "Durable men's belt made from high-quality leather.",
+        "p_img": "https://img.freepik.com/premium-psd/psd-brown-leather-belt-transparent-background-with-editable-mask-layer_1026553-55484.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717804800&semt=ais_user"
+    },
+    {
+        "p_id": 85,
+        "p_name": "Women's Hat",
+        "p_cost": 999,
+        "p_cat": "Accessories",
+        "p_desc": "Fashionable women's hat made from lightweight material.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwywkX2ZYIQG7IkpUDxS1hgUb8D0LdiQU3w&s"
+    },
+    {
+        "p_id": 86,
+        "p_name": "Digital Alarm Clock",
+        "p_cost": 899,
+        "p_cat": "Home Decor",
+        "p_desc": "Digital alarm clock with LED display and multiple alarm settings.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWgJnN39rICy5XIdGxXSNLzRO6YwbZCYNGw&s"
+    },
+    {
+        "p_id": 87,
+        "p_name": "Women's Handbag",
+        "p_cost": 2499,
+        "p_cat": "Accessories",
+        "p_desc": "Stylish women's handbag with multiple compartments and durable straps.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVzQgUj3ynPAtXolGCzTtwAOc3MC6UaFaFcQ&s"
+    },
+    {
+        "p_id": 88,
+        "p_name": "Bluetooth Speaker",
+        "p_cost": 1999,
+        "p_cat": "Electronics",
+        "p_desc": "Portable Bluetooth speaker with excellent sound quality and long battery life.",
+        "p_img": "https://img.freepik.com/free-photo/wireless-white-smart-speaker-digital-device_53876-96821.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=ais_user"
+    },
+    {
+        "p_id": 89,
+        "p_name": "Smart Light Bulb",
+        "p_cost": 799,
+        "p_cat": "Home Appliances",
+        "p_desc": "Energy-efficient smart light bulb with adjustable brightness and color.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoD0JS1C0xm7VfokRMjgJh7TVFa_-Boj4TkA&s"
+    },
+    {
+        "p_id": 90,
+        "p_name": "Men's Polo Shirt",
+        "p_cost": 1299,
+        "p_cat": "Clothing",
+        "p_desc": "Classic men's polo shirt made from high-quality cotton fabric.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvNfhZXzhpaWqShcRBLxIFBfHtV2IkdbqHg&s"
+    },
+    {
+        "p_id": 91,
+        "p_name": "Women's Skirt",
+        "p_cost": 1499,
+        "p_cat": "Clothing",
+        "p_desc": "Elegant women's skirt perfect for casual and formal wear.",
+        "p_img": "https://img.freepik.com/free-photo/black-skirt-with-design-space-women-s-street-fashion_53876-102142.jpg?size=338&ext=jpg&ga=GA1.1.87170709.1707868800&semt=ais"
+    },
+    {
+        "p_id": 92,
+        "p_name": "Electric Heater",
+        "p_cost": 3999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Portable electric heater with adjustable temperature settings.",
+        "p_img": "https://img.freepik.com/free-vector/heaters-realistic-composition-with-isolated-image-electric-oil-heater-blank-background-vector-illustration_1284-66085.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717891200&semt=ais_user"
+    },
+    {
+        "p_id": 93,
+        "p_name": "Men's Sneakers",
+        "p_cost": 3499,
+        "p_cat": "Footwear",
+        "p_desc": "Comfortable and stylish men's sneakers for everyday wear.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSoJ4KRW--9HB3TnmRdszrNOQtxq4OQ_K3TA&s"
+    },
+    {
+        "p_id": 94,
+        "p_name": "Women's Wallet",
+        "p_cost": 1199,
+        "p_cat": "Accessories",
+        "p_desc": "Elegant women's wallet with multiple card slots and coin pocket.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqxZV0BkbS79s1sOw14pJ2pyZ5zGGjYZg4Xw&s"
+    },
+    {
+        "p_id": 95,
+        "p_name": "Portable Blender",
+        "p_cost": 1999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Compact and portable blender for smoothies and shakes.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZClHjciKTOvY_ko7olmzQop3o35DT4lQLCA&s"
+    },
+    {
+        "p_id": 96,
+        "p_name": "Men's Tie",
+        "p_cost": 599,
+        "p_cat": "Accessories",
+        "p_desc": "Classic men's tie made from high-quality silk.",
+        "p_img": "https://img.freepik.com/free-vector/set-different-blue-ties-isolated_90220-296.jpg?size=338&ext=jpg&ga=GA1.1.44546679.1716940800&semt=ais_user"
+    },
+    {
+        "p_id": 97,
+        "p_name": "Wireless Charger",
+        "p_cost": 1799,
+        "p_cat": "Electronics",
+        "p_desc": "Fast and efficient wireless charger for smartphones and other devices.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTukgxyNDF4puaqCh-BdDjngZu0UBzKyvd3cw&s"
+    },
+    {
+        "p_id": 98,
+        "p_name": "Women's Flats",
+        "p_cost": 1999,
+        "p_cat": "Footwear",
+        "p_desc": "Comfortable and stylish women's flats for everyday wear.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXcgjEidQ8WlzD67dzzZ0QzPOwO45cd8SjAA&s"
+    },
+    {
+        "p_id": 99,
+        "p_name": "Electric Rice Cooker",
+        "p_cost": 2999,
+        "p_cat": "Home Appliances",
+        "p_desc": "Electric rice cooker with multiple cooking modes and timer function.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF9bQP6I_oq5Ar-bW17nGiAgtfDSLxCPDLQ&s"
+    },
+    {
+        "p_id": 100,
+        "p_name": "Men's Bracelet",
+        "p_cost": 999,
+        "p_cat": "Jewelry",
+        "p_desc": "Stylish men's bracelet made from durable material.",
+        "p_img": "https://img.freepik.com/free-photo/closeup-businessman-s-hands-with-ornate-silver-tiger-ring-other-accessories_181624-55178.jpg?size=338&ext=jpg&ga=GA1.1.1224184972.1714003200&semt=ais"
+    }
+]
